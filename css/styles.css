@@ -1,0 +1,197 @@
+body{
+    margin: 0px;
+    color: #40514E;
+    text-align: center;
+    font-family: Verdana,sans-serif ;
+}
+h1{
+    font-family: 'Sacramento',cursive;
+    font-size: 4.625rem;
+    margin: 50 auto 0 auto;
+    color: #66BFBF;
+}
+h2{
+    font-family: Roboto Condensed;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+h3{
+font-family:Roboto Condensed;
+color: #11999E;
+}
+h4{
+font-family: Roboto Condensed;
+color: #11999E ;
+}
+h5{
+    font-family: Rubik 80s Fade;
+    color: #11999E;
+}
+hr{
+    border-style: dotted;
+    border-width: 7px;
+    border-bottom: 0;
+    width: 10%;
+    color: #11999E;
+
+}
+.skills{
+    padding: 40px 0;
+    margin: 70px auto 70px auto;
+    line-height: 2;
+   
+    width: 50%;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+}
+.skilltable{
+    font-style: Roboto Condensed;
+    position: relative;
+    margin-left: 22%;
+    margin-top: 35px;
+}
+.skillimg{
+    
+}
+.top {
+background-color: #B9F3FC;
+position: relative;
+padding-top: 100px;
+}
+.middle-container{
+}
+.bottom-container{
+    
+   
+}
+.bottom-cloud{
+position: absolute;
+margin-right: 200px;
+margin-top: 50px;
+}
+.top-cloud{
+    position: absolute;
+    margin-bottom: 300px;
+    margin-left: 300px;
+}
+
+.skl{
+     max-width: 30px;
+     max-height: 30px;
+    display: inline;
+}
+.spskill{
+    display: inline;
+}
+.debug{
+    display: inline;
+}
+.programmer{
+    display: inline-block;
+    max-width: 25px;
+    max-height: 25px;
+}
+.webdev{
+    display: inline-block;
+}
+.degree{
+    display: inline-block;
+}
+.certi{
+    display: inline-block;
+    max-width: 25px;
+    max-height: 25px;
+}
+.debugimg{
+    max-width: 25px;
+    max-height: 25px;
+    display: inline;
+}
+.cs{
+    display: inline;
+}
+.csimg{
+    max-width: 25px;
+    max-height: 25px;
+    display: inline;
+}
+.proline{
+    
+}
+.profile{
+    margin: 100px auto;
+}
+td{
+   padding: 0 50px 0 50px;
+}
+.links{
+    background-color: #66BFBF;
+    padding: 50px;
+    color: #11999E;
+}
+.contact-me{
+    padding: 50px;
+}
+.names{
+    color: #EAF6F6;
+    padding: 20px 0;
+    margin-top: 50px;
+    font-size: 0.75rem;
+}
+.myskill{
+    display: inline;
+    
+}
+.myskillimg{
+    display: inline;
+    height:40px;
+    width: 40px;
+    
+}
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Roboto Condensed;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+  .joke{
+    width: 40%;
+    margin-left: 430px;
+  }
+  .jokewr{
+    width: 40%;
+    text-align: right;
+    margin-left: 450px;
+  }
+  a{
+    color: #11999E;
+    text-decoration: none;
+    padding: 50px;
+  }
+  a:hover{
+    color: #EAF6F6;
+  }
